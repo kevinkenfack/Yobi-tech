@@ -1,9 +1,9 @@
-import Dashboard from './components/Dashboard';
+import YobiTechStore from './components/YobiTechStore.jsx';
 
 function App() {
   return (
     <div className="App">
-      <Dashboard />
+      <YobiTechStore />
     </div>
   );
 }
